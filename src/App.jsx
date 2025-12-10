@@ -3,7 +3,7 @@ import Hero from "./components/Hero";
 import Nav from "./components/Nav";
 import Skills from "./components/Skills";
 import Contact from "./components/Contact";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
